@@ -4,7 +4,7 @@ export default function AuralStatus(props) {
   return (
     <p
       id="status-readout"
-      className="visuallyhidden"
+      className="test"
       aria-live="assertive"
       aria-atomic="true"
     >
